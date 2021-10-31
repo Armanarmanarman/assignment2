@@ -15,7 +15,7 @@ Enter cryptocurrency name to terminal and you will get 25 latest news about it
 
 for example you can enter : bitcoin, ethereum or other cryptocurrency 
 
-##Examples
+## Example with bitcoin
 
 ```terminal
 Enter name of the cryptocurrency: bitcoin
